@@ -1,0 +1,27 @@
+SheetShaper
+
+
+This message serves as a legal notice regarding the use of SheetShaper or related tools (hereinafter referred to as "the Software") provided by SheetShaper. By using or accessing the Software, you agree to be bound by the terms and conditions outlined in this notice.
+
+License and Restrictions:
+The Software is provided to you under a license, and your use of the Software is subject to the terms and conditions specified in the accompanying license agreement. Any unauthorized use, reproduction, or distribution of the Software is strictly prohibited.
+
+Data Collection and Processing:
+The Software may involve the collection and processing of digital data for forensic purposes. You acknowledge and agree that the Software may access, analyze, and store data from the device or system on which it is installed.
+
+Compliance with Applicable Laws:
+You are responsible for ensuring that your use of the Software complies with all applicable local, state, and federal laws. This includes, but is not limited to, privacy and data protection laws.
+
+Disclaimer of Liability:
+SheetShaper disclaims any liability for any damages, losses, or consequences arising from the use or misuse of the Software. The Software is provided "as is," without any warranties, express or implied.
+
+Confidentiality:
+Any information obtained through the use of the Software that is confidential or sensitive in nature shall be handled in accordance with applicable laws and the terms of the license agreement.
+
+Please be aware that failure to comply with the terms outlined in this notice may result in legal action.
+
+Sincerely,
+
+Corey Kwiatkowski
+Founder @ SheetShaper
+coreyjkwiatkowski@gmail.com
